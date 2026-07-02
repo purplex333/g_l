@@ -1,7 +1,6 @@
 banana
 apple
 orange
-kiwi
 blueberry
 pineapple
 watermelon
