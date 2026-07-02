@@ -5,3 +5,4 @@ blueberry
 pineapple
 watermelon
 苹果
+	椰子
