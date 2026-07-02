@@ -3,3 +3,4 @@ apple
 orange
 kiwi
 blueberry
+pineapple
